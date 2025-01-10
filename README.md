@@ -42,7 +42,7 @@ The project successfully predicted loan defaults with high accuracy using the XG
 
 ## About
 - **Completed:** October 2023
-- **Author:** Muhammad Ali Siddiqui
+- **Author:** Muhammad Ali
 
 ## License
 This project is for educational purposes only and follows the Coursera guidelines for project submissions.
